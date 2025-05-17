@@ -1,2 +1,2 @@
-# Capstone-project
+# ResumeUsingHTML
 Basic Resume
